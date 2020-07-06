@@ -76,7 +76,7 @@ workflow used for changes. Few important rules worth mentioning again:
   - all changes are done via branches, no changes in `master` please;
   - first write test then write functionality - take care of automated
     testing;
-  - always biuld - `[Cmd/Ctrl]`+`[Shift]`+`B` - for documentation
+  - always build - `[Cmd/Ctrl]`+`[Shift]`+`B` - for documentation
     update;
   - always test - `[Cmd/Ctrl]`+`[Shift]`+`T` - to make sure regression
     tests are passing;
